@@ -32,4 +32,4 @@ Feito com ❤️ por Victor Barbosa e colaboradores 👋🏽 Entre em contato!
 
 <br>
 
-https://github.com/victorb-s/Sistema-Bancario/assets/114593367/f5c37d43-d619-4eca-a7d5-4d03209946ea
+https://github.com/victorb-s/Sistema-Bancario/assets/114593367/60e1f9e3-5e8c-45bf-857a-04e298072d7d
