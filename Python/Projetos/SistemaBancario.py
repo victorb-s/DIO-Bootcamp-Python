@@ -62,7 +62,7 @@ def listar_usuarios(usuarios):
     else:
         print("\n---------- LISTA DE USUÁRIOS ----------\n")
         for usuario in usuarios:
-            linha = f"""\
+            linha = f"""
                 Nome:\t\t\t{usuario['nome']}
                 CPF:\t\t\t{usuario['cpf']}
                 Endereço:\t\t{usuario['endereco']}
