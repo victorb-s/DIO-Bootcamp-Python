@@ -1,0 +1,14 @@
+[09-07-2024 22:24] Função 'criar_cliente' executada com argumentos ([<PessoaFisica: (703)>],) e {}. Retornou None
+[09-07-2024 22:26] Função 'criar_conta' executada com argumentos (1, [<PessoaFisica: (703)>], [<ContaCorrente: ('0001', '1', 'Victor')>]) e {}. Retornou None
+[09-07-2024 22:27] Função 'depositar' executada com argumentos ([<PessoaFisica: (703)>],) e {}. Retornou None
+[09-07-2024 22:29] Função 'criar_conta' executada com argumentos (1, [], []) e {}. Retornou None
+[09-07-2024 22:29] Função 'criar_cliente' executada com argumentos ([<PessoaFisica: (1)>],) e {}. Retornou None
+[09-07-2024 22:29] Função 'depositar' executada com argumentos ([],) e {}. Retornou None
+[10-07-2024 00:23] Função 'criar_cliente' executada com argumentos ([<PessoaFisica: ('victor', 703)>],) e {}. Retornou None
+[10-07-2024 00:23] Função 'criar_conta' executada com argumentos (1, [<PessoaFisica: ('victor', 703)>], [<ContaCorrente: ('0001', '1', 'victor')>]) e {}. Retornou None
+[10-07-2024 00:23] Função 'depositar' executada com argumentos ([<PessoaFisica: ('victor', 703)>],) e {}. Retornou None
+[10-07-2024 00:26:07] Função 'criar_cliente' executada com argumentos ([<PessoaFisica: ('32', 1)>],) e {}. Retornou None
+[10-07-2024 00:26:09] Função 'criar_conta' executada com argumentos (1, [<PessoaFisica: ('32', 1)>], [<ContaCorrente: ('0001', '1', '32')>]) e {}. Retornou None
+[10-07-2024 00:26:12] Função 'depositar' executada com argumentos ([<PessoaFisica: ('32', 1)>],) e {}. Retornou None
+[10-07-2024 00:26:20] Função 'sacar' executada com argumentos ([<PessoaFisica: ('32', 1)>],) e {}. Retornou None
+[10-07-2024 00:26:23] Função 'exibir_extrato' executada com argumentos ([<PessoaFisica: ('32', 1)>],) e {}. Retornou None
