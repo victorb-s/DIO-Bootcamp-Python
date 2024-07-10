@@ -3,7 +3,7 @@
 
 Neste repositório encontra-se todas as minhas anotações e projetos desenvolvidos durante o bootcamp "Python AI BackEnd Developer", uma parceria da plataforma DIO com a empresa Vivo para oferecer formação em Python à diversas pessoas. Durante o bootcamp temos como base o projeto de desenvolver um sistema bancário utilizando Python, que pode ser acessado através [deste link](https://github.com/victorb-s/DIO_Bootcamp_Python/blob/421ebd95443fc48b929744dd0c307fb2c4298ae1/Python/Projetos/SistemaV4/SistemaBancarioV4.py), e vamos desde a base até um sistema mais bem estruturado, utilizando inclusive banco de dados.
 
-Fomos propostos a desenvolver também um conteúdo utilizando inteligência artifical, no meu caso, optei por usar IAs de geração de imagem para idealizar o mundo real se coexistissemos com pokémons, pode ser encontrado o resultado [neste repositório](https://github.com/victorb-s/lab-natty-or-not)
+Fomos propostos a desenvolver também um conteúdo utilizando inteligência artifical, no meu caso, optei por usar IAs de geração de imagem para idealizar o mundo real se coexistissemos com pokémons, pode ser encontrado o resultado [neste repositório](https://github.com/victorb-s/lab-natty-or-not).
 
 
 - Python 3
