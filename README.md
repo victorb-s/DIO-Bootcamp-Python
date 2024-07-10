@@ -1,13 +1,21 @@
 # 📒 Documentação do Projeto
 
 
-Neste repositório encontra-se todas as minhas anotações e projetos desenvolvidos durante o bootcamp "Python AI BackEnd Developer", uma parceria da plataforma DIO com a empresa Vivo para oferecer formação em Python à diversas pessoas. Durante o bootcamp temos como base o projeto de desenvolver um sistema bancário utilizando Python, que pode ser acessado através [deste link](https://github.com/victorb-s/DIO_Bootcamp_Python/blob/421ebd95443fc48b929744dd0c307fb2c4298ae1/Python/Projetos/SistemaBancario.py), e vamos desde a base até um sistema mais bem estruturado, utilizando inclusive banco de dados.
+Neste repositório encontra-se todas as minhas anotações e projetos desenvolvidos durante o bootcamp "Python AI BackEnd Developer", uma parceria da plataforma DIO com a empresa Vivo para oferecer formação em Python à diversas pessoas. Durante o bootcamp temos como base o projeto de desenvolver um sistema bancário utilizando Python, que pode ser acessado através [deste link](https://github.com/victorb-s/DIO_Bootcamp_Python/blob/421ebd95443fc48b929744dd0c307fb2c4298ae1/Python/Projetos/SistemaV4/SistemaBancarioV4.py), e vamos desde a base até um sistema mais bem estruturado, utilizando inclusive banco de dados.
 
 
 
 
-- Python 3 (Completo)
+- Python 3
+  - Fundamentos do Python
+  - Estruturas base do Python
+  - Estrutura de dados
+  - Programação orientada à objetos
+  - Decoradores, iteradores e geradores
+  - Data, hora e fuso horário
+  - Manipulação de arquivos
 - Banco de Dados
+- I.A. Generativa
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
@@ -34,4 +42,14 @@ Feito com ❤️ por Victor Barbosa 👋🏽 Entre em contato!
 
 <br>
 
+### Versão 1 do Projeto: (Funções)
+
+https://github.com/victorb-s/DIO_Bootcamp_Python/assets/114593367/b5fdb81a-98a2-4733-a0c4-a0ab521506df
+
+### Versão 2 do Projeto: (Classes Simples)
+
 https://github.com/victorb-s/Sistema-Bancario/assets/114593367/60e1f9e3-5e8c-45bf-857a-04e298072d7d
+
+### Versão Final do Projeto: (Classes, datas, manipulação de arquivos)
+
+https://github.com/victorb-s/DIO_Bootcamp_Python/assets/114593367/58a34105-6da7-412f-bd7f-2ad4bfd6ce23
