@@ -1,0 +1,45 @@
+-- Operadores Lógicos --
+
+db.usuarios.find({$and: [{idade:20}, {nome:"Carlos"}]})
+
+db.usuarios.find({$or: [{$and: [{idade:20}, {nome:"Carlos"}]},  {nome:"Rebeca"}]})
+
+
+-- Operadores de comparação --
+-- Equivalência --
+db.usuarios.find({ idade: { $eq: 25 } });
+
+
+-- Menor que / Menor ou igual --
+db.usuarios.find({ $or: [{ idade: { $lt: 18 } }, { cidade: "Rio de Janeiro" }] });
+
+db.usuarios.find({ idade: { $lte: 30 } });
+
+
+-- Maior que / Maior ou igual --
+db.usuarios.find({ idade: { $gt: 30 } });
+
+db.usuarios.find({ idade: { $gte: 30 } });
+
+
+-- Negação --
+db.usuarios.find({ idade: { $ne: 30 } });
+
+db.usuarios.find({ cidade: { $nin: ["São Paulo", "Rio de Janeiro"] } });
+
+
+-- Arrays --
+db.usuarios.find({ cidade: { $in: ["São Paulo", "Rio de Janeiro"] } });
+
+
+-- Projeção --
+db.usuarios.find({}, { nome: 1, idade: 1 })
+
+-- Ordenação --
+db.usuarios.find().sort({ idade: 1 })
+
+-- Limitação --
+db.usuarios.find().limit(10)
+
+-- Paginação --
+db.usuarios.find().skip(10).limit(5)

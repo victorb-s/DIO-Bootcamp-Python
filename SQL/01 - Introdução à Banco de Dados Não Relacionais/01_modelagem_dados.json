@@ -1,0 +1,23 @@
+{
+   "_id":1,
+   "nome":"Victor Barbosa",
+   "idade":30,
+   "data_nascimento":"2006-07-24",
+   "endereco":"Rua André dias de França, 58...",
+   "enderecos":[
+      {
+         "logradouro":"Rua André Dias de França",
+         "numero":58,
+         "bairro":"Marcos Freire",
+         "cidade":"Jaboatão dos Guararapes"
+      }
+   ],
+   "interesses":[
+      "kart",
+      "jogos"
+   ],
+   "reservas":[
+      1,
+      2
+   ]
+}

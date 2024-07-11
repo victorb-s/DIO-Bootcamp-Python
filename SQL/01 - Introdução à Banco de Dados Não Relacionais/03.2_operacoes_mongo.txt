@@ -1,0 +1,35 @@
+-- Encontra Todos --
+db.usuarios.find({});
+db.usuarios.find({"nome": "Victor"});
+
+-- Encontra o primeiro e faz algo --
+db.usuarios.findOne({"nome": "Victor"});
+db.usuarios.findOneAndUpdate({ nome: "Victor" }, { $set: { idade: 17 } });
+db.usuarios.findOneAndDelete({ nome: "João" });
+
+-- Atualiza o primeiro --
+db.usuarios.updateOne(
+  { nome: "João" },
+  { $set: { idade: 26 } }
+);
+
+-- Atualiza muitos --
+db.usuarios.updateMany(
+  { cidade: "São Paulo" },
+  { $set: { estado: "SP" } }
+);
+
+-- Substitui o primeiro --
+db.usuarios.replaceOne(
+  { nome: "João" },
+  {
+    nome: "John",
+    idade: 27,
+    cidade: "São Paulo",
+    estado: "SP",
+    endereco: {
+      rua: "Avenida Principal",
+      numero: 123
+    }
+  }
+);

@@ -1,0 +1,7 @@
+{
+    "_id": ObjectId("123),
+    "destino": ObjectId("456"),
+    "data": "2024-10-10",
+    "status": "pendente",
+    "usuario": ObjectId("345)
+}
