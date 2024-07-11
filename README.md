@@ -14,6 +14,7 @@ No módulo de Inteligência Artificial, fomos propostos a desenvolver também um
   - Decoradores, iteradores e geradores
   - Data, hora e fuso horário
   - Manipulação de arquivos
+  - Bibliotecas Python (uso do pip e pipenv)
 - Banco de Dados Relacionais
   - MariaDB 
 - Banco de Dados Não Relacionais
