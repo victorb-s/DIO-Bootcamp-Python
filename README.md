@@ -19,6 +19,7 @@ Fomos propostos a desenvolver também um conteúdo utilizando inteligência arti
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="MariaDB" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg">
 </div>
   
 ## 🌐 Autor
