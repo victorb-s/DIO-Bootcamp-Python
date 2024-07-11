@@ -14,7 +14,9 @@ Fomos propostos a desenvolver também um conteúdo utilizando inteligência arti
   - Decoradores, iteradores e geradores
   - Data, hora e fuso horário
   - Manipulação de arquivos
-- Banco de Dados
+- Banco de Dados Relacionais
+- Banco de Dados Não Relacionais
+- FastAPI
 - I.A. Generativa
   
 <div style="display: inline_block"><br>
