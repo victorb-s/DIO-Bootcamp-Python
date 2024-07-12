@@ -7,7 +7,9 @@ Durante o módulo de banco de dados, debatemos mais sobre os conceitos de Bancos
 
 No módulo de Inteligência Artificial, fomos propostos a desenvolver também um conteúdo utilizando IAs generativas, no meu caso, optei por usar IAs de geração de imagem para idealizar o mundo real se coexistissemos com pokémons, pode ser encontrado o resultado [neste repositório](https://github.com/victorb-s/DIO-lab-natty-or-not).
 
+Tivemos também um módulo acerca de Git e Github, duas ferramentas popularmente conhecidas e de extrema importância, conheci mais das funções do Git e me aprofundei na plataforma GitHub, apesar de já a conhecer anteriormente e fazer uso.
 
+- Git e Github
 - Python 3
   - Fundamentos do Python
   - Estruturas base do Python
